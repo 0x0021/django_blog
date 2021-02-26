@@ -1,0 +1,7 @@
+<uwsgi>
+   <socket>127.0.0.1:8000</socket>
+   <chdir>/home/wwwroot/blog.xuyukun.com</chdir>
+   <module>ishare.usgi</module>    
+   <processes>4</processes>         
+   <daemonize>/home/wwwlogs/blog.xuyukun.conm.uwsgi.log</daemonize>
+</uwsgi>
