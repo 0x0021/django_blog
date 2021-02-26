@@ -1,6 +1,7 @@
 ### 个人博客项目
 
-欢迎点个关注 ![微信公众号](./static/image/wxgzh.jpg) 谢谢！
+
+修改自 https://github.com/Jeyrce/ishare
 
 ---
 
@@ -9,7 +10,7 @@
 
 - 开发: 2019年03月08日 ~ 2019年04月08日
 - 当前版本: `0.1.7`
-- 上线: [https://www.lujianxin.com](https://www.lujianxin.com)
+- 上线: [http://blog.xuyukun.com](http://blog.xuyukun.com)
 
 ### 使用技术:
 
