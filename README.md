@@ -1,7 +1,7 @@
 ### 个人博客项目
 
 
-修改自 https://github.com/Jeyrce/ishare
+- 修改自 https://github.com/Jeyrce/ishare
 
 ---
 
